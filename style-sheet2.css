@@ -49,3 +49,8 @@ p.quote {
   margin-top: 20px;
     margin-bottom: 300px;
 }
+
+h4{
+    clear: both;
+    font-size: 30px;
+}
