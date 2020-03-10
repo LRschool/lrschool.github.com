@@ -1,0 +1,18 @@
+<head> <link rel= "stylesheet" href="style-sheet4.css">
+  </head>
+  <head>
+       <center><h1><head>LR's Digital portfolio</head></h1></center>
+      
+      <header><a href="OurMission.html"> Social Studies</a>
+           <a href="math.html"> Math</a></header>
+    <center><h2> Technology </h2></center>
+      
+      <center><img src= "images/Binarycode.jpg" alt= "Binary"></center>" 
+      <center> <p class="quote"> "Everybody in this country should learn to program a computer, because it teaches you how to think".</p></center>
+      <center><h3> -Steve Jobs</h3></center>
+      
+      <img src= "images/Screen Shot 2020-03-06 at 9.10.46 AM.png" alt= "index">
+      <p>=</p>
+    
+ 
+      
