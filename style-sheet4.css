@@ -6,6 +6,13 @@ header {
     margin:50px;
     text-align:center;
 }
+
+h5 {
+    font-size: 40px;
+    font-family: cursive;
+    text-align:left;
+    text-decoration:overline;
+}
 a{
     margin: 10px;
 }
@@ -21,6 +28,8 @@ h2{
   text-decoration:overline;
   font-family:cursive;
     margin-top: 60px;
+    text-align:center;
+    margin-bottom: 50px;
 }
 
 h3{
@@ -39,21 +48,28 @@ h1 {
 }
 
 img {
-    width: 55%;
-    margin-bottom: 100px;
+    
+     width: 55%;
+    margin-bottom: 200px;
 }
+   
 p{
     display: inline;
 }
 p.quote {
-   font-weight: bold;
+  font-weight: bold;
   font-family: cursive;
   margin-top: 1px;
   font-size: 90px;
   color: ;
   margin-top: 20px;
-    margin-bottom: 100px;
-
-“Pin by Lissuh Warnock on Waterslide: American Flag Art.” Pinterest, www.pinterest.com/pin/650840583630642765/
+  margin-bottom: 100px;
+}
     
-    https://steemit.com/steemstem/@katerinaramm/pi-p-is-considered-the-most-beautiful-number-and-is-celebrated-every-today-march-14th-here-s-why
+img.number1 {
+    
+     width: 55%;
+    margin-bottom: 200px;
+}
+ 
+    
