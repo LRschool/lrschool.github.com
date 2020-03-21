@@ -4,8 +4,8 @@
   <head>
        <center><h1><head>LR's Digital portfolio</head></h1></center>
       
-      <header><a href="OurMission.html"> Social Studies</a>
-      <a href="adopt-an-olive.html"> Liturature</a></header>
+       <header><a href="OurMission.html"> Social Studies</a>
+           <a href="math.html"> Math</a><a href="mypage.html">Extra</a> <a href="questions.html"> Q&A's</a><a href="adopt-an-olive.html">Literature</a></header>
     <center><h2> Mathematics </h2></center>
       
     <center><img src= " images/pi-1343261_960_720.jpg" alt= "pi"></center>
@@ -27,3 +27,4 @@
     </div> </center> 
     
       <center><h3> This is my math notebook. It shows my organization skills. Last year I struggled to keep my math notes organized, but this year I dedicated myself to keeping them arranged. This has allowed me to easily find what i am looking for, when I need to access information from previous lessons. The Theories of Mind this exemplifies are persistence and striving for accuracy.   </h3></center>
+      
