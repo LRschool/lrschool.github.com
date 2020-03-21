@@ -27,6 +27,8 @@ h3{
   color: black;
   font-family: times;
   line-height: 1.5;
+    font-size: 40px;
+    border-style: solid;
 }
 h1 {
   font-weight: bold;
@@ -36,6 +38,7 @@ h1 {
 }
 img {
     width: 55%;
+    margin-bottom: 100px;
 }
 
 p.quote {
@@ -46,7 +49,10 @@ p.quote {
   color: ;
   margin-top: 20px;
     margin-bottom: 50px;
+}
 
-“Pin by Lissuh Warnock on Waterslide: American Flag Art.” Pinterest, www.pinterest.com/pin/650840583630642765/
-    
-    https://steemit.com/steemstem/@katerinaramm/pi-p-is-considered-the-most-beautiful-number-and-is-celebrated-every-today-march-14th-here-s-why
+p.by{
+    font-size: 30px;
+    font-family: times;
+    margin-bottom: 200px;
+}
